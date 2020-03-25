@@ -1,0 +1,14 @@
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder Sinifi 1\String Builder Sinifi 1\bin\Debug\String Builder Sinifi 1.exe
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder Sinifi 1\String Builder Sinifi 1\bin\Debug\String Builder Sinifi 1.pdb
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder Sinifi 1\String Builder Sinifi 1\obj\x86\Debug\String_Builder_Sinifi_1.Form1.resources
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder Sinifi 1\String Builder Sinifi 1\obj\x86\Debug\String_Builder_Sinifi_1.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder Sinifi 1\String Builder Sinifi 1\obj\x86\Debug\String Builder Sinifi 1.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder Sinifi 1\String Builder Sinifi 1\obj\x86\Debug\String Builder Sinifi 1.exe
+C:\Users\ncfkr1\Desktop\ \5 C#\BLOG\String Builder Sinifi 1\String Builder Sinifi 1\obj\x86\Debug\String Builder Sinifi 1.pdb
+E:\03 - Yazılım\Yeni klasör (2)\09 String Builder Sınıfı 1\String Builder Sinifi 1\obj\x86\Debug\String Builder Sinifi 1.exe
+E:\03 - Yazılım\Yeni klasör (2)\09 String Builder Sınıfı 1\String Builder Sinifi 1\obj\x86\Debug\String Builder Sinifi 1.pdb
+E:\03 - Yazılım\Yeni klasör (2)\09 String Builder Sınıfı 1\String Builder Sinifi 1\bin\Debug\String Builder Sinifi 1.exe
+E:\03 - Yazılım\Yeni klasör (2)\09 String Builder Sınıfı 1\String Builder Sinifi 1\bin\Debug\String Builder Sinifi 1.pdb
+E:\03 - Yazılım\Yeni klasör (2)\09 String Builder Sınıfı 1\String Builder Sinifi 1\obj\x86\Debug\String_Builder_Sinifi_1.Form1.resources
+E:\03 - Yazılım\Yeni klasör (2)\09 String Builder Sınıfı 1\String Builder Sinifi 1\obj\x86\Debug\String_Builder_Sinifi_1.Properties.Resources.resources
+E:\03 - Yazılım\Yeni klasör (2)\09 String Builder Sınıfı 1\String Builder Sinifi 1\obj\x86\Debug\String Builder Sinifi 1.csproj.GenerateResource.Cache
